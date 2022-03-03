@@ -2,7 +2,8 @@ Additional material to article: Higher order
 kinematic formulas and its numerical computation employing dual
 numbers
 
-The files: RC_robot.f90 corresponds to the example of section 4.1
+The files:
+RC_robot.f90 corresponds to the example of section 4.1
 
 Spherical4R.f90 corresponds to the example presented in section 4.2
 

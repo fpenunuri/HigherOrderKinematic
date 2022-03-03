@@ -9,5 +9,5 @@ Spherical4R.f90 corresponds to the example presented in section 4.2
 
 example1.f90 corresponds to the example of appendix A
 
-examples2.f90 is not included in the paper.It contains an example
+examples2.f90 is not included in the paper. It contains an example
 where the position vector depend explicitly on time.

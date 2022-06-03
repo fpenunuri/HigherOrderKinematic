@@ -37,7 +37,7 @@
     x = dualz4((1.1d0,1d0),1,0,0,0) !(1.1d0,1d0) is the complex 1.1 + i
 
     f = sin(x)
-    do k=1,20
+    do k=1,19
        f = sin(f)
     end do
 

@@ -1,4 +1,4 @@
-Additional material to article: Higher order
+Data Availability: Higher order
 kinematic formulas and its numerical computation employing dual
 numbers
 
